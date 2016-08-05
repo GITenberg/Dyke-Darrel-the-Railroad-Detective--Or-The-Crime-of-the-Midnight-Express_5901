@@ -1,0 +1,26 @@
+_repo: Dyke-Darrel-the-Railroad-Detective--Or-The-Crime-of-the-Midnight-Express_5901
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pinkerton, A. Frank
+    gutenberg_agent_id: '1840'
+    url: http://www.gutenberg.org/2009/agents/1840
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroad stories'
+- !lcsh 'Crime -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Dyke Darrel the railroad detective -- Won by crime.
+title: Dyke Darrel the Railroad Detective; Or, The Crime of the Midnight Express
+url: http://www.gutenberg.org/ebooks/5901
